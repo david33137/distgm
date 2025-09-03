@@ -1,10 +1,17 @@
 {
-  "version": "1.1.10",
-  "build_date": "2025-09-03T17:25:23.978309",
-  "download_url": "https://github.com/david33137/distgm/releases/download/v1.1.10/dist.zip",
+  "version": "1.1.11",
+  "build_date": "2025-09-03T17:27:51.503012",
+  "download_url": "https://github.com/david33137/distgm/releases/download/v1.1.11/dist.zip",
   "file_size": 56670332,
   "file_size_mb": 54.05,
   "changelog": [
+    {
+      "version": "1.1.11",
+      "date": "2025-09-03",
+      "changes": [
+        "add"
+      ]
+    },
     {
       "version": "1.1.10",
       "date": "2025-09-03",
@@ -31,13 +38,6 @@
       "date": "2025-09-03",
       "changes": [
         "123"
-      ]
-    },
-    {
-      "version": "1.1.6",
-      "date": "2025-09-03",
-      "changes": [
-        "Test tag-only after fix"
       ]
     }
   ]
