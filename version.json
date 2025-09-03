@@ -1,10 +1,17 @@
 {
-  "version": "1.0.3",
-  "build_date": "2025-09-03T16:26:13.413401",
-  "download_url": "https://github.com/david33137/distgm/releases/download/v1.0.3/dist.zip",
+  "version": "1.0.4",
+  "build_date": "2025-09-03T16:32:49.151934",
+  "download_url": "https://github.com/david33137/distgm/releases/download/v1.0.4/dist.zip",
   "file_size": 56671217,
   "file_size_mb": 54.05,
   "changelog": [
+    {
+      "version": "1.0.4",
+      "date": "2025-09-03",
+      "changes": [
+        "Device upload fix"
+      ]
+    },
     {
       "version": "1.0.3",
       "date": "2025-09-03",
