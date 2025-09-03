@@ -1,10 +1,18 @@
 {
-  "version": "1.1.11",
-  "build_date": "2025-09-03T17:27:51.503012",
-  "download_url": "https://github.com/david33137/distgm/releases/download/v1.1.11/dist.zip",
+  "version": "1.1.12",
+  "build_date": "2025-09-03T17:31:27.934884",
+  "download_url": "https://github.com/david33137/distgm/releases/download/v1.1.12/dist.zip",
   "file_size": 56670332,
   "file_size_mb": 54.05,
   "changelog": [
+    {
+      "version": "1.1.12",
+      "date": "2025-09-03",
+      "changes": [
+        "hoang",
+        "2"
+      ]
+    },
     {
       "version": "1.1.11",
       "date": "2025-09-03",
@@ -31,13 +39,6 @@
       "date": "2025-09-03",
       "changes": [
         "Test debug release creation"
-      ]
-    },
-    {
-      "version": "1.1.7",
-      "date": "2025-09-03",
-      "changes": [
-        "123"
       ]
     }
   ]
