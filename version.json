@@ -1,10 +1,17 @@
 {
-  "version": "1.1.2",
-  "build_date": "2025-09-03T16:49:45.722118",
-  "download_url": "https://github.com/david33137/distgm/releases/download/v1.1.2/dist.zip",
+  "version": "1.1.3",
+  "build_date": "2025-09-03T16:49:50.927513",
+  "download_url": "https://github.com/david33137/distgm/releases/download/v1.1.3/dist.zip",
   "file_size": 56670332,
   "file_size_mb": 54.05,
   "changelog": [
+    {
+      "version": "1.1.3",
+      "date": "2025-09-03",
+      "changes": [
+        "Test tag-only deployment"
+      ]
+    },
     {
       "version": "1.1.2",
       "date": "2025-09-03",
@@ -31,13 +38,6 @@
       "date": "2025-09-03",
       "changes": [
         "Device upload fix and GitHub release creation"
-      ]
-    },
-    {
-      "version": "1.0.5",
-      "date": "2025-09-03",
-      "changes": [
-        "Initial release with device upload fix"
       ]
     }
   ]
