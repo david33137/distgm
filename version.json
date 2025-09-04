@@ -1,8 +1,9 @@
 {
-  "version": "1.1.17",
-  "build": 3,
-  "date": "2025-09-04T08:38:14.532044",
+  "version": "1.1.18",
+  "build": 4,
+  "date": "2025-09-04T08:44:17.492285",
   "changelog": [
-    "Auto deploy test with enhanced functionality"
-  ]
+    "Fixed update dialog AttributeError for changelog string format"
+  ],
+  "file_size_mb": 54.0
 }
