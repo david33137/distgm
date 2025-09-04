@@ -1,10 +1,8 @@
 {
-  "version": "1.1.16",
-  "build": 2,
-  "date": "2025-09-04T08:35:02.117291",
+  "version": "1.1.17",
+  "build": 3,
+  "date": "2025-09-04T08:38:14.532044",
   "changelog": [
-    "Auto deploy test - Enhanced deploy system",
-    "Automated GitHub release creation with dist.zip upload",
-    "Testing improved deployment workflow"
+    "Auto deploy test with enhanced functionality"
   ]
 }
