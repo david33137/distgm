@@ -1,45 +1,10 @@
 {
-  "version": "1.1.14",
-  "build_date": "2025-09-04T08:14:27.989220",
-  "download_url": "https://github.com/david33137/distgm/releases/download/v1.1.14/dist.zip",
-  "file_size": 56669939,
-  "file_size_mb": 54.04,
+  "version": "1.1.15",
+  "build": 1,
+  "date": "2025-09-04T08:33:50.625422",
   "changelog": [
-    {
-      "version": "1.1.14",
-      "date": "2025-09-04",
-      "changes": [
-        "ree"
-      ]
-    },
-    {
-      "version": "1.1.13",
-      "date": "2025-09-03",
-      "changes": [
-        "add"
-      ]
-    },
-    {
-      "version": "1.1.12",
-      "date": "2025-09-03",
-      "changes": [
-        "hoang",
-        "2"
-      ]
-    },
-    {
-      "version": "1.1.11",
-      "date": "2025-09-03",
-      "changes": [
-        "add"
-      ]
-    },
-    {
-      "version": "1.1.10",
-      "date": "2025-09-03",
-      "changes": [
-        "Test tag-only with no GitHub CLI auth"
-      ]
-    }
+    "Enhanced deploy system with automatic GitHub release creation",
+    "Added dist.zip upload to GitHub releases",
+    "Improved error handling and authentication checks"
   ]
 }
