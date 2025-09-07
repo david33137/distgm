@@ -1,0 +1,16 @@
+{
+  "os": "win",
+  "win": "10",
+  "osVersion": "10",
+  "browser": "chrome",
+  "canvas": "perfect",
+  "webGLImage": "true",
+  "audioContext": "true",
+  "webGLMetadata": "true",
+  "clientRectsEnable": "true",
+  "noiseFont": "true",
+  "name": "Auto Profile Python",
+  "checkname": false,
+  "folder_name": "",
+  "version": "137"
+}

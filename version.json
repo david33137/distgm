@@ -1,9 +1,9 @@
 {
-  "version": "1.1.29",
-  "build": 15,
-  "date": "2025-09-05T09:26:16.352773",
+  "version": "1.1.30",
+  "build": 16,
+  "date": "2025-09-07T15:33:34.124696",
   "changelog": [
-    "Automated build and deploy"
+    "Add profile_config.json for GitHub config feature"
   ],
   "file_size_mb": 60.7
 }
